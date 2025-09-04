@@ -54,4 +54,4 @@
    ![样例6](https://github.com/JiangYanting/literature_arts_and_history_knowledge_graph/blob/main/pictures/06.png)
    
  ## 3.如何下载（How to download it?）
-    请联系作者。微信号:jyt629000，或QQ号：540980735，或邮箱：jiangyanting@mail.bnu.edu.cn
+    请联系作者。微信号:DHfusion，或QQ号：540980735，或邮箱：jiangyanting@mail.bnu.edu.cn
